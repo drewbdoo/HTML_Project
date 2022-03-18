@@ -183,3 +183,43 @@ h1 {
   justify-self: center;
   color: white;
 }
+
+.card-body {
+  background-color: #c76ec0;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: white;
+}
+
+h5 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.tvhead {
+  text-align: center;
+  justify-items: center;
+ 
+
+}
+
+.tvhead h2 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: pink;
+}
+
+.tvhead h1 {
+  padding-top: 10px;
+  color: #6922b9;
+}
+
+.time {
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+  color: rgb(247, 201, 208);
+}
