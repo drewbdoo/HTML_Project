@@ -60,11 +60,15 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-.col img {
-    width: 400px;
-    height: 200px;
+
+.col-4 img {
+   /* width: 100%;
+   /* width: 400px;
+    height: 300px; */
     border: 1px solid pink;
     background-color: pink;
+    display: flex;
+    
 }
 
 .cardtext {
@@ -94,18 +98,26 @@ body {
     align-items: center;
     margin: 25px;
     color: white;
-    padding: 40px;
+    padding-bottom: 10px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .box1 h1{
     font-weight: 800;
-    padding-bottom: 70px;
+    padding-bottom: 0px;
+    margin: 0%;
 }
 
-.box1 h3 {
-    font-size: 20px;
+
+.lowhead {
+    font-size: 20px;   
     color: lightpink;
     padding-top: 50px;
 }
+
+.high {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
 
